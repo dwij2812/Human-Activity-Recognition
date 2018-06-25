@@ -16,7 +16,9 @@ Important Sources:
 > ** *Accuracy Attained = 98%* **
 
 **To Install All Dependencies and external Libraries use:**
-> ```$ pip install -r requirements.txt``` 
+```bash
+$ pip install -r requirements.txt
+``` 
 
 **To Run the Project**
 
