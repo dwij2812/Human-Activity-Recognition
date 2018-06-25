@@ -14,3 +14,12 @@ Important Sources:
 > * sklearn
 
 > ** *Accuracy Attained = 98%* **
+
+**To Install All Dependencies and external Libraries use:**
+> ```$ pip install -r requirements.txt``` 
+
+**To Run the Project**
+
+> 1. ```$ git clone https://github.com/dwij2812/Human-Activity-Recognition.git```
+> 2. ```$ cd Human-Activity-Recognition```
+> 3. ```$ Jupyer Notebook project.ipynb```
